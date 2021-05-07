@@ -1,6 +1,7 @@
 # PortofolioTecnico-3C
 Currículo
 Rafaella Debiasi
+09/05/2004
 Palhoça, Santa Catarina, Brasil 
 rafaella_debiasi@estudante.sc.senai.br
 CURSOS
