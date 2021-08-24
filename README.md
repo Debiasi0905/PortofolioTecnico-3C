@@ -1,4 +1,11 @@
-# PortofolioTecnico-3C
+
+## Códigos Portifólio 
+
+* [Acesso ao banco de dados - Jorges Sapatos](BancoDeDados/)
+* [Acesso ao desenvolvimento de sistemas - cassino](DesenvolvimentoDeSistemas/)
+* [Acesso a Programação de Aplicativo - Quiz](ProgramacaoDeAplicativos/)
+
+## PortofolioTecnico-3C
 Currículo
 Rafaella Debiasi
 09/05/2004
